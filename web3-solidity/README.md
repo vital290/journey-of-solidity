@@ -1,0 +1,1 @@
+This repository will contain learning of my web3.0(blockchain) journey through my beloved mentor Aditya Patel.
